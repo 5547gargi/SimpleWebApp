@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipcart Mobiles offer will ended on 10th Sept 2023</h1>   
+         <h1>Flipcart Mobiles offer will ended on 10th Sept 2023..</h1>   
 	 
 
     </section>    
